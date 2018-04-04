@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yan Zhang's Personal Page"
 title_separator          : "'s"
-name                     : &name "Yan Zhang"
+name                     : &name "Yan Zhang (张言)"
 description              : &description "personal description"
 url                      : https://yz-cnsdqz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
