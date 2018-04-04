@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yan Zhang / Personal Page"
+title                    : "Yan Zhang's Personal Page"
 title_separator          : "'s"
 name                     : &name "Yan Zhang"
 description              : &description "personal description"
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/yz-cnsdqz"
+  github           : "yz-cnsdqz"
   google_plus      :
   keybase          :
   instagram        :
