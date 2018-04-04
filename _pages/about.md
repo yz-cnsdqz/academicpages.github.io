@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "To the reader.. / 给读者的信。。"
+title: "To the reader (给读者的信)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,6 +18,7 @@ I hope to dedicate all my knowledge to serve people, improving technologies of b
 Moreover, I have various hobbies, such as music, photography, design art and sports ; )
 
 Yours faithfully,
+
 Yan
 
 ---
@@ -34,6 +35,7 @@ Yan
 此外，我有广泛的兴趣爱好，比如音乐，摄影，艺术设计和运动 （手动微笑）
 
 此致，敬礼
+
 言
 
 
