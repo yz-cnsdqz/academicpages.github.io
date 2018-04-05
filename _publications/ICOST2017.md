@@ -1,6 +1,6 @@
 ---
 title: "Visual Confusion Recognition in Movement Patterns from Walking Path and Motion Energy"
-collection: publications
+collection: publications (oral)
 permalink: /publication/ICOST2017
 date: 2017-08-29
 venue: 'International Conference on Smart Homes and Health Telematics (ICOST)'
