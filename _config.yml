@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yan Zhang / 张言"
+  name             : "Yan Zhang (张言)"
   avatar           : "profile.png"
   bio              : "PhD at Institute of Neural Information Processing, Ulm University, Germany. Machine learning, computer vision, biomedical engineering, healthcare "
   location         : "Ulm, Germany"
@@ -207,15 +207,6 @@ defaults:
   - scope:
       path: ""
       type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _activities
-  - scope:
-      path: ""
-      type: activities
     values:
       layout: single
       author_profile: true

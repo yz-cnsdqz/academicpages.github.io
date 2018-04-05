@@ -1,12 +1,21 @@
 ---
 permalink: /
-title: "To the reader (给读者的信)"
+title: "About Yan Zhang... / 关于张言..."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# News
+* [2018.4.5] I am schuduled to submit the PhD thesis before 2018.9.30.
+
+
+---
+
+# To the readers
+
 Dear Sir or Madam,
 
 I am currently a PhD student at the institute of neural information processing, Ulm University, Germany. After obtaining M.Sc degree in University of Manchester in advanced control engineering, I came to Germany to study computer science in Saarland University. In parallel, I was working in Max Plunck Institute of Informatics (MPII) and the Mathematical Image Analysis group of Saarland University as a research assistant. Afterwards, I was doing an internship in German Cancer Research Center (DKFZ) Heidelberg, Germany, and then joined my current institute. 
@@ -23,6 +32,7 @@ Yan
 
 ---
 
+# 给读者的信
 
 尊敬的女士和先生们，
 
