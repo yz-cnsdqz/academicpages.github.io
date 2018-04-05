@@ -101,7 +101,7 @@ Publications / 文章发表
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks / 演讲和口头报告
+Talks / 报告
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
