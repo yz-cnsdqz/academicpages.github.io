@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publications / 文章发表"
     url: /publications/   
 
-  - title: "Projects"
+  - title: "Projects / 项目"
     url: /projects/   
 
 
-  - title: "Talks"
+  - title: "Talks / 报告"
     url: /talks/  
     
   # - title: "Teaching"
