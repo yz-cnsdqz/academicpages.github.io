@@ -88,10 +88,10 @@ Work experience
   
 Skills / 技能
 ======
-* C/C++, Python, Matlab, Linux pthread, Qt and others
+* C/C++, Python, Matlab, Linux pthread, and others
 * deep learning related
-  * tensorflow
-  * caffe
+  * tensorflow, caffe
+  * opencv
   * CUDA
 * Chinese (native), English, German (basic)
 
