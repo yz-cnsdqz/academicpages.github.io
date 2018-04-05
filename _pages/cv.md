@@ -40,7 +40,7 @@ Work experience
 
 * Research intern, Spring 2015 - Winter 2015
   * German cancer research center (DKFZ), Heidelberg, Germany
-  * Duties included: tissue classification based on multispectral laparoscopy, development of [<span style=“color:green;”> MITK</span>](http://mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK))
+  * Duties included: tissue classification based on multispectral laparoscopy, development of [*MITK*](http://mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK))
   * Supervisor: Prof. Lena Maier-Hein
 
 * Research assistant, Winter 2015 - current 
@@ -50,7 +50,7 @@ Work experience
     * computational methods for disorientation recognition
     * continuous activity understanding and early recognition
     * human motion parsing in video stream
-    * other [BMBF SenseEmotion](http://www.sense-emotion.de) project related work
+    * other [*BMBF SenseEmotion*](http://www.sense-emotion.de) project related work
   * Supervisor: Prof. Heiko Neumann
 
 
