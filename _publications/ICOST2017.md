@@ -1,5 +1,5 @@
 ---
-title: "Visual Confusion Recognition in Movement Patterns from Walking Path and Motion Energy"
+title: "Visual Confusion Recognition in Movement Patterns from Walking Path and Motion Energy (oral)"
 collection: publications (oral)
 permalink: /publication/ICOST2017
 date: 2017-08-29
