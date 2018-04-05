@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Yan Zhang... / 关于张言..."
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
