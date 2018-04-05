@@ -86,7 +86,7 @@ Work experience
 
 
   
-Skills 技能
+Skills / 技能
 ======
 * C/C++, Python, Matlab, Linux pthread, Qt and others
 * deep learning related
@@ -95,13 +95,13 @@ Skills 技能
   * CUDA
 * Chinese (native), English, German (basic)
 
-Publications 文章发表
+Publications / 文章发表
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks 演讲和口头报告
+Talks / 演讲和口头报告
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
