@@ -31,16 +31,18 @@ Work experience
 
 * Research intern, Spring 2015 - Winter 2015
   * German cancer research center (DKFZ), Heidelberg, Germany
-  * Duties included: tissue classification using multispectral laparoscopy, development of MITK (http://mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK))
+  * Duties included: tissue classification using multispectral laparoscopy, development of [MITK](http://mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK))
   * Supervisor: Prof. Lena Maier-Hein
 
 * Research assistant, Winter 2015 - current 
   * Institute of neural information processing, Ulm University, Ulm, Germany
   * Duties included: human behaviour analysis for elder healthcare 
-    * empirical experiments of cognitive impairment reproduction and elder motor functionality simulation; 
+    * empirical experiments of cognitive impairment reproduction and elder motor functionality simulation
     * computational methods for disorientation recognition
     * continuous activity understanding and early recognition
     * human motion parsing in video stream
+    * other BMBF SenseEmotion project related work
+  * Supervisor: Prof. Heiko Neumann
 
 
 
