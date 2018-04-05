@@ -38,7 +38,7 @@ Work experience
   * Duties included: a higher-order coupled variational model: continuous theories, computational methods and applications in image analysis
   * Supervisor: Prof. Joachim Weickert
 
-* Research intern, Spring 2015 - Winter 2015 ![(*photo with colleague*)](http://yz-cnsdqz.github.io/images/CAI-DKFZ.jpg)
+* Research intern, Spring 2015 - Winter 2015 [(*photo with colleague*)](http://yz-cnsdqz.github.io/images/CAI-DKFZ.jpg)
   * German cancer research center (DKFZ), Heidelberg, Germany
   * Duties included: tissue classification based on multispectral laparoscopy, development of [*MITK*](http://mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK))
   * Supervisor: Prof. Lena Maier-Hein 
@@ -68,7 +68,7 @@ Work experience
   * 工作内容: 一种高维变分模型: 连续模型理论, 计算方法，以及在图像分析上的应用
   * 导师: Prof. Joachim Weickert
 
-* 实习研究员, 2015 春 - 2015 冬 ![(*和同事们*)](http://yz-cnsdqz.github.io/images/CAI-DKFZ.jpg)
+* 实习研究员, 2015 春 - 2015 冬 [(*和同事们的合影*)](http://yz-cnsdqz.github.io/images/CAI-DKFZ.jpg)
   * 德国癌症研究中心，德国海德堡
   * 工作内容: 基于多频谱内窥镜的组织分类, [*MITK*](http://mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK))开发
   * 导师: Prof. Lena Maier-Hein
