@@ -40,7 +40,7 @@ Work experience
 
 * Research intern, Spring 2015 - Winter 2015
   * German cancer research center (DKFZ), Heidelberg, Germany
-  * Duties included: tissue classification based on multispectral laparoscopy, development of [MITK](http://mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK))
+  * Duties included: tissue classification based on multispectral laparoscopy, development of [<span style=“color:green;”> MITK</span>](http://mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK))
   * Supervisor: Prof. Lena Maier-Hein
 
 * Research assistant, Winter 2015 - current 
