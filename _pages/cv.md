@@ -11,7 +11,7 @@ redirect_from:
 
 More details are referred to [**the PDF file**](http://yz-cnsdqz.github.io/files/cv_en.pdf).
 
-更多细节可以在 [**这个PDF文件**](http://yz-cnsdqz.github.io/files/cv_cn.pdf) 中找到。
+更多细节可以在 [**这个PDF文件**](http://yz-cnsdqz.github.io/files/cv_cn.pdf) 中找到。 
 
 Education
 ======
