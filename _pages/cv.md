@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+** The PDF version can be download [**here**](http://yz-cnsdqz.github.io/files/cv.pdf)
+
+
 Education
 ======
 * B.Eng. Southwest Jiaotong University, Chengdu, China, 2009
