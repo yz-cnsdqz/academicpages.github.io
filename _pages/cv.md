@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-The PDF version can be download [**here**](http://yz-cnsdqz.github.io/files/cv.pdf)
+More details are referred to [**the PDF file**](http://yz-cnsdqz.github.io/files/cv.pdf).
 
-PDF 格式的简历可以从 [**这里**](http://yz-cnsdqz.github.io/files/cv.pdf) 下载
+更多细节可以在 [**这个PDF文件**](http://yz-cnsdqz.github.io/files/cv.pdf) 中找到。
 
 Education
 ======
