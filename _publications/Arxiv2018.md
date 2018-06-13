@@ -14,4 +14,3 @@ We present an effective dynamic clustering algorithm for the task of temporal hu
 
 [Download paper here](http://yz-cnsdqz.github.io/files/ZhangEtAlArxiv2018.pdf)
 
----
