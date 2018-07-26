@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 # News
+* [2018.7.26] A paper is accepted by ECCV workshop on Assistive Computer Vision and Robotics. Details come soon.
+* [2018.7.10] A paper is accepted by BMVC 2018. Details come soon.
 * [2018.4.5] I am schuduled to submit the PhD thesis before 2018.9.30.
 
 
