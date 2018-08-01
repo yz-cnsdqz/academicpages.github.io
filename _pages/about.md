@@ -26,8 +26,6 @@ My research experiences mainly incorporate image processing based on differentia
 
 I hope to dedicate all my knowledge to serve people, improving technologies of biomedicine and healthcare. 
 
-Moreover, I have various hobbies, such as music, photography, design art and sports ; )
-
 Yours faithfully,
 
 Yan
@@ -44,9 +42,9 @@ Yan
 
 我希望贡献自己所有的知识，以提高生物医学和健康护理技术的方式为人们服务。
 
-此外，我有广泛的兴趣爱好，比如音乐，摄影，艺术设计和运动 （手动微笑）
 
-此致，敬礼
+此致 
+敬礼
 
 言
 
