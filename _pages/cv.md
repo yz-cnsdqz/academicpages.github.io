@@ -57,6 +57,15 @@ Work experience
     * other [*BMBF SenseEmotion*](http://www.sense-emotion.de) project related work
   * Supervisor: Prof. Heiko Neumann
 
+* Research assistant Intern, Summer 2018 - current 
+  * Perceiving system department, Max-planck institute for intelligent systems, Tuebingen, Germany
+  * Duties included:
+    * 3D human mesh synthesis from 2D RGB images
+    * generative model for human-environment interaction
+    * human-centric graphics
+    * kernel methods meet deep learning
+  * Supervisor: Dr. Siyu Tang, Prof. Michael Black
+
 
 
 
@@ -87,7 +96,10 @@ Work experience
     * 其他和[*SenseEmotion*](http://www.sense-emotion.de)项目有关的工作
   * 导师: Prof. Heiko Neumann
 
-
+* 实习研究员, 2018 夏 至今 [(*和同事们的合影*)](http://yz-cnsdqz.github.io/images/PS-MPI.jpg)
+  * 马克斯普朗克智能系统研究所，德国图宾根
+  * 工作内容: 基于人-场景交互的3D人体生成模型
+  * 导师: Dr. Siyu Tang, Prof. Michael Black
 
   
 Skills / 技能
