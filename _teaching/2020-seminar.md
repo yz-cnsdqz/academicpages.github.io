@@ -4,7 +4,7 @@ collection: teaching
 type: "master seminar course"
 permalink: /teaching/2020-seminar
 venue: "ETH Zurich, Computer Science Department"
-date: 2020
+date: 2020-9-17
 location: "Zurich, Switerland"
 ---
 
