@@ -19,7 +19,7 @@ redirect_from:
 
 # To the readers
 I am dedicated on human-centered AI, in particular on human behavior perceiving, understanding and synthesis in 3D. These tasks are not independent from each other, but are inherently the same. Namely, we say we understand a kind of behavior, only if we know how to precisely perceive and synthesize it.
-Therefore, my research interests covers 3D body modelling, 3D body recovery from images/videos, stochastic motion prediction/generation, and modelling person-scene interactions. Their downstreaming applications include AR, VR, graphics, healthcare, sports, computer-aided desgin, and beyond.
+Therefore, my research interests cover 3D body modelling, 3D body recovery from images/videos, stochastic motion prediction/generation, and modelling person-scene interactions. Their downstreaming applications include AR, VR, graphics, healthcare, sports, computer-aided desgin, and beyond.
 
 I am currently a postdoc researcher at [Computer Vision and Learning Group (VLG), ETH Zurich](https://vlg.inf.ethz.ch), led by Prof. Siyu Tang. In the meanwhile, I am a guest scientist at [Perceiving Systems Department, MPI Tuebingen](https://ps.is.mpg.de), and work closely with Prof. Michael J. Black and other colleagues. I got my PhD degree at Ulm University with *magna cum laude*, supervised by Prof. Heiko Neumann.
 
