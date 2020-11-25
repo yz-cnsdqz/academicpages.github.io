@@ -9,43 +9,28 @@ redirect_from:
 ---
 
 # News
-* [2019.3.1] A paper is accepted by CVPR 2019.
-* [2018.8.15] I will visit Department of Perceiving System in Max-Planck Institute of Intelligent System (Tuebingen), hosted by Dr. Siyu Tang and Prof. Michael Black.
-* [2018.7.26] A paper is accepted by ECCV workshop on Assistive Computer Vision and Robotics. 
-* [2018.7.10] A paper is accepted by BMVC 2018. 
-* [2018.4.5] I am schuduled to submit the PhD thesis before 2018.9.30.
-
-
+* [2020.10.1] Two papers (1 oral + 1 poster) are accepted by 3DV 2020.
+* [2020.8.1] Start the postdoc position at ETH Zurich, advised by Prof. Siyu Tang.
+* [2020.6.24] PhD defense at Uni Ulm, with the grade *magna cum laude*. Dissertation: __Human action parsing in untrimmed videos and its applications for elderly people healthcare__. 
+* [2020.3.1] One paper is accepted by CVPR 2020 as an oral presentation (5.7% acceptance rate).
+* [2020.1.15] Move to ETH Zurich as a visiting researcher.
 ---
 
 # To the readers
+I am dedicated on human-centered AI, in particular on human behavior perceiving, understanding and synthesis in 3D. These tasks are not independent from each other, but are inherently the same. Namely, we say we understand a kind of behavior, only if we know how to precisely perceive and synthesize it.
+Therefore, my research interests covers 3D body modelling, 3D body recovery from images/videos, stochastic motion prediction/generation, and modelling person-scene interactions. Their downstreaming applications include AR, VR, graphics, healthcare, sports, computer-aided desgin, and beyond.
 
-Dear Sir or Madam,
+I am currently a postdoc researcher at [Computer Vision and Learning Group (VLG), ETH Zurich](https://vlg.inf.ethz.ch), led by Prof. Siyu Tang. In the meanwhile, I am a guest scientist at [Perceiving Systems Department, MPI Tuebingen](https://ps.is.mpg.de), and work closely with Prof. Michael J. Black and other colleagues. I got my PhD degree at Ulm University with *magna cum laude*, supervised by Prof. Heiko Neumann.
 
-I am currently a PhD student at the institute of neural information processing, Ulm University, Germany. After obtaining M.Sc degree in University of Manchester in advanced control engineering, I jointed the graduate school of computer science in Saarland University. In parallel, I was working in Max Plunck Institute of Informatics (MPII) and the Mathematical Image Analysis group of Saarland University as a research assistant. Afterwards, I was doing an internship in German Cancer Research Center (DKFZ) Heidelberg, Germany, and then joined my current institute. 
-
-My research experiences mainly incorporate image processing based on differential equation and variational calculus, as well as computer vision and machine learning methods on medical image analysis, human behavior understanding and others. I have several publications in these domains, provide oral presentations in international conferences and serve as the reviewer for the SPIE journal of medical imaging, PLoS One and others.
-
-
-Yours faithfully,
-
-Yan
 
 ---
 
-# 给读者的信
+# 致读者
+我致力于以人为本的人工智能研究，特别是3D环境中人的行为感知，理解和生成。这些任务并不是相互独立的， 而是具有本质的相同点。只有在知道如何精确感知和生成一类行为后，我们才说，我们理解了这种行为。因此，我的研究兴趣涵盖了3D人体建模，图片和视频中的3D人体重建，人体运动不确定预测和生成，以及建模人和场景的交互。它们的下游应用包括增强现实，虚拟现实，图形学，健康医疗，体育，计算机辅助设计等等。
 
-尊敬的读者，
-
-我现在正在德国乌尔姆大学神经信息处理中心攻读博士学位。在获得英国曼彻斯特大学硕士学位后，在前辈的点拨下，我来到德国萨尔大学研究生院学习计算机科学。同时，我曾于马克斯普朗克信息所和萨尔大学数学图像处理组担任研究助理。之后，我去到德国癌症研究中心实习，并于一年以后来到了乌尔姆，加入目前的机构。
-
-我的研究经历主要包含了，基于微分方程和变分微积分的图像处理，以及计算机视觉和机器学习在医学图像分析和人体行为分析的应用。我在这些领域里面发表过文章，在国际会议上做过口头报告，以及为SPIE journal of medical imaging, PLoS One 等学术期刊审阅论文。
+我目前在苏黎世联邦理工大学，Siyu Tang教授领导的VLG组从事博士后研究。同时，我是德国马克斯普朗克智能系统所感知系统部的客座科学家，同Michael J. Black教授及其他同事有紧密的合作。我于德国乌尔姆大学取得计算机博士学位，由Heiko Neumann教授指导。
 
 
-此致 
-敬礼
-
-言
 
 
 
