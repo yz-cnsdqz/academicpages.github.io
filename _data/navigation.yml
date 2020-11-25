@@ -3,15 +3,15 @@ main:
   - title: "Publications / 文章发表"
     url: /publications/   
 
-  # - title: "Projects / 项目"
-  #   url: /projects/   
+  - title: "Projects / 项目"
+    url: /projects/   
 
 
   - title: "Talks / 报告"
     url: /talks/  
     
-  # - title: "Teaching"
-  #   url: /teaching/
+  - title: "Teaching"
+    url: /teaching/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
