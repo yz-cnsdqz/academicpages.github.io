@@ -14,6 +14,7 @@ redirect_from:
 * [2020.6.24] PhD defense at Uni Ulm, with the grade *magna cum laude*. Dissertation: __Human action parsing in untrimmed videos and its applications for elderly people healthcare__. 
 * [2020.3.1] One paper is accepted by CVPR 2020 as an oral presentation (5.7% acceptance rate).
 * [2020.1.15] Move to ETH Zurich as a visiting researcher.
+
 ---
 
 # To the readers
