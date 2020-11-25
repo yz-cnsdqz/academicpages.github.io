@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Yan Zhang (张言)"
   avatar           : "profile2.jpg"
-  bio              : "PhD at Institute of Neural Information Processing, Ulm University, Germany. Machine learning, computer vision, biomedical engineering, healthcare "
-  location         : "Ulm, Germany"
+  bio              : "Postdoc at ETH Zurich"
+  location         : "Zurich, Switzerland"
   employer         :
   googlescholar    : "https://scholar.google.de/citations?user=5VpkLO8AAAAJ&hl=en"
-  email            : yan.zhang@uni-ulm.de
+  email            : yan.zhang@inf.ethz.ch
   uri              :
   bitbucket        :
   codepen          :
