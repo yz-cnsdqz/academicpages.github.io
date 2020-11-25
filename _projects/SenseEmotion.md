@@ -1,7 +1,7 @@
 ---
 title: "BMBF - SenseEmotion"
-collection: publications
-permalink: /publication/Arxiv2018
+collection: projects
+permalink: /projects/SenseEmotion
 date: 2018-03-15
 venue: 'arXiv preprint arXiv:1803.05790'
 paperurl: 'http://yz-cnsdqz.github.io/files/ZhangEtAlArxiv2018.pdf'
