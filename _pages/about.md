@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 # News
+* [2020.11.26] Our paper of [grasping field](https://ps.is.mpg.de/publications/grapingfield-3dv-2020) gets the <span style="color:red">best paper award</span> on 3DV 2020.
 * [2020.10.1] Two papers (1 oral + 1 poster) are accepted by 3DV 2020.
 * [2020.8.1] Start the postdoc position at ETH Zurich, advised by Prof. Siyu Tang.
 * [2020.6.24] PhD defense at Uni Ulm, with the grade *magna cum laude*. Dissertation: __Human action parsing in untrimmed videos and its applications for elderly people healthcare__. 
