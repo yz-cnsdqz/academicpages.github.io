@@ -1,9 +1,9 @@
 ---
-title: "Grasping Field: Learning Implicit Representations for Human Grasps (best paper award)"
+title: "Grasping Field: Learning Implicit Representations for Human Grasps"
 collection: publications
 permalink: /publication/GF
 date: 2020-11-25
-venue: '3DV'
+venue: '3DV' (best paper award)
 paperurl: 'https://ps.is.mpg.de/publications/grapingfield-3dv-2020'
 ---
 ![alt text](../images/GF-teaser.png)<!-- .element height="20%" width="20%" -->
