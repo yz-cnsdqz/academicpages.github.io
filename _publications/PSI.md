@@ -3,7 +3,7 @@ title: "Generating 3D People in Scenes without People"
 collection: publications
 permalink: /publication/PSI
 date: 2020-6-20
-venue: 'CVPR'
+venue: 'CVPR (oral)'
 paperurl: 'https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Generating_3D_People_in_Scenes_Without_People_CVPR_2020_paper.html'
 ---
 ![alt text](../images/PSI-teaser.png)<!-- .element height="20%" width="20%" -->
