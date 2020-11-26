@@ -1,9 +1,9 @@
 ---
 title: "Frontal Low-rank Random Tensors for Fine-grained Action Segmentation"
 collection: publications
-permalink: /publication/LBP
+permalink: /publication/FLRT
 date: 2019-6-3
-journal: 'arXiv'
+venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/1906.01004'
 ---
 ![alt text](../images/FLRT-teaser.png)<!-- .element height="20%" width="20%" -->

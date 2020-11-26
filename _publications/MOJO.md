@@ -2,7 +2,7 @@
 title: "We are More than Our Joints: Predicting how 3D Bodies Move"
 collection: publications
 permalink: /publication/MOJO
-date: 2020-11-20
+date: 2021-1-1
 venue: 'tbd'
 paperurl: 'tbd'
 ---
