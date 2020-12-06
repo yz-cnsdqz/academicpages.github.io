@@ -288,7 +288,7 @@ button {
   }
 }
 
-btn-pill {
+.btn-pill {
   &:before, &:after {
     position: absolute;
     right: 0;
@@ -371,9 +371,4 @@ btn-pill {
   }
 }
 
-.inspire {
-  a {
-    text-decoration: none;
-  }
-}
 
