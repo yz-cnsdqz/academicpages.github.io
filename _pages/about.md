@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+## This website is obsolete. Please check the new site here: https://yz-cnsdqz.github.io/personal-site/
+
 # News
 * [2020.11.26] Our paper of [grasping field](https://ps.is.mpg.de/publications/grapingfield-3dv-2020) gets the <span style="color:red">best paper award</span> on 3DV 2020.
 * [2020.10.1] Two papers (1 oral + 1 poster) are accepted by 3DV 2020.
